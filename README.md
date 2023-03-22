@@ -1,7 +1,6 @@
 Earth-Symbiosis-Twin
 =======================
 
-For transparency I'm leveraging GPT4 to assist in summarizing and expanding on key points and objectives.
 
 The Earth Symbiosis Twin project aims to create and maintain a comprehensive Digital Twin of Earth, which serves as a dynamic model to visualize and optimize the symbiotic relationships between ecological systems, human societies, and technology. This model is grounded in systems theory and is intended to provide a 'living' example for communities to emulate, setting local and regional goals for sustainable development. The project seeks to optimize ecological resilience, implement automated renewable abundance systems, and promote technical efficiency, while fostering a global network of local contributors. The ultimate objective is to measure and optimize personal, social, and ecological health in an objective and data-driven manner.
 
@@ -41,3 +40,5 @@ Expected Outcomes:
 
 
 By establishing and maintaining a Digital Twin of Earth, the Earth Symbiosis project aims to provide a powerful tool and framework for envisioning and achieving a sustainable future, benefiting both the planet and its inhabitants.
+
+For transparency I'm leveraging GPT4 to assist in summarizing and expanding on key points and objectives.
